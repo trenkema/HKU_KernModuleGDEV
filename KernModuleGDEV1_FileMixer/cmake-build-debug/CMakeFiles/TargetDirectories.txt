@@ -1,0 +1,3 @@
+C:/Users/tomre/CLionProjects/KernModuleGDEV1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tomre/CLionProjects/KernModuleGDEV1/cmake-build-debug/CMakeFiles/KernModuleGDEV1.dir
+C:/Users/tomre/CLionProjects/KernModuleGDEV1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/NPC.h
+string
+-
+
+C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/Orc.h
+NPC.h
+C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/NPC.h
+string
+-
+
+C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/main.cpp
+iostream
+-
+Orc.h
+C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/Orc.h
+

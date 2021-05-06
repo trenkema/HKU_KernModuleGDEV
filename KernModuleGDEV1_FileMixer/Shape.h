@@ -1,0 +1,8 @@
+//
+// Created by tomre on 22-4-2021.
+//
+
+#ifndef KERNMODULEGDEV1_SHAPE_H
+#define KERNMODULEGDEV1_SHAPE_H
+
+#endif //KERNMODULEGDEV1_SHAPE_H
