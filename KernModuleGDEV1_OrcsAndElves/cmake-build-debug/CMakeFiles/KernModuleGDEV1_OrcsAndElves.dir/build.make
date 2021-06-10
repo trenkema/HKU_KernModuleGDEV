@@ -61,10 +61,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves
+CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/depend.make
@@ -77,62 +77,76 @@ include CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\main.cpp
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\main.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\main.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.i
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\main.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\main.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\main.cpp.s
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj: ../NPC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\NPC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\NPC.cpp
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\NPC.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\NPC.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.i
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\NPC.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\NPC.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\NPC.cpp.s
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: ../Orc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Orc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Orc.cpp
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Orc.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Orc.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.i
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Orc.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Orc.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Orc.cpp.s
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: ../Elf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Elf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Elf.cpp
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Elf.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Elf.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.i
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\Elf.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Elf.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Elf.cpp.s
+
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/flags.make
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj: ../Inventory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Inventory.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Inventory.cpp
+
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Inventory.cpp > CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Inventory.cpp.i
+
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\Inventory.cpp -o CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\Inventory.cpp.s
 
 # Object files for target KernModuleGDEV1_OrcsAndElves
 KernModuleGDEV1_OrcsAndElves_OBJECTS = \
 "CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj" \
 "CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj" \
 "CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj" \
-"CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj"
+"CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj" \
+"CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj"
 
 # External object files for target KernModuleGDEV1_OrcsAndElves
 KernModuleGDEV1_OrcsAndElves_EXTERNAL_OBJECTS =
@@ -141,11 +155,12 @@ KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/ma
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj
+KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/build.make
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/linklibs.rsp
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/objects1.rsp
 KernModuleGDEV1_OrcsAndElves.exe: CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable KernModuleGDEV1_OrcsAndElves.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable KernModuleGDEV1_OrcsAndElves.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -158,6 +173,6 @@ CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/clean:
 .PHONY : CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/clean
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/depend
 

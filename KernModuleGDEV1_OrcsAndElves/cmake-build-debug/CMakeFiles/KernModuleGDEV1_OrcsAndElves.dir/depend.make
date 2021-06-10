@@ -3,14 +3,23 @@
 
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: ../Elf.cpp
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: ../Elf.h
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: ../Inventory.h
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.obj: ../NPC.h
 
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj: ../Inventory.cpp
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj: ../Inventory.h
+
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj: ../Inventory.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj: ../NPC.cpp
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/NPC.cpp.obj: ../NPC.h
 
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: ../Inventory.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: ../NPC.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: ../Orc.cpp
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Orc.cpp.obj: ../Orc.h
 
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../Elf.h
+CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../Inventory.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../NPC.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../Orc.h
 CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/main.cpp.obj: ../main.cpp

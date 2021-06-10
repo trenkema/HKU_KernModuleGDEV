@@ -66,10 +66,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves
+CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -98,9 +98,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -167,6 +167,33 @@ Elf.s: Elf.cpp.s
 Elf.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\build.make CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Elf.cpp.s
 .PHONY : Elf.cpp.s
+
+Inventory.obj: Inventory.cpp.obj
+
+.PHONY : Inventory.obj
+
+# target to build an object file
+Inventory.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\build.make CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.obj
+.PHONY : Inventory.cpp.obj
+
+Inventory.i: Inventory.cpp.i
+
+.PHONY : Inventory.i
+
+# target to preprocess a source file
+Inventory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\build.make CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.i
+.PHONY : Inventory.cpp.i
+
+Inventory.s: Inventory.cpp.s
+
+.PHONY : Inventory.s
+
+# target to generate assembly for a file
+Inventory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\KernModuleGDEV1_OrcsAndElves.dir\build.make CMakeFiles/KernModuleGDEV1_OrcsAndElves.dir/Inventory.cpp.s
+.PHONY : Inventory.cpp.s
 
 NPC.obj: NPC.cpp.obj
 
@@ -261,6 +288,9 @@ help:
 	@echo ... Elf.obj
 	@echo ... Elf.i
 	@echo ... Elf.s
+	@echo ... Inventory.obj
+	@echo ... Inventory.i
+	@echo ... Inventory.s
 	@echo ... NPC.obj
 	@echo ... NPC.i
 	@echo ... NPC.s

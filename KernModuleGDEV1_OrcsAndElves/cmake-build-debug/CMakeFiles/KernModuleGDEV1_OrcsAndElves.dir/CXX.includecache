@@ -6,19 +6,55 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/NPC.h
-string
--
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Elf.cpp
+Elf.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Elf.h
 
-C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/Orc.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Elf.h
 NPC.h
-C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/NPC.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/NPC.h
 string
 -
 
-C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/main.cpp
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Inventory.cpp
+Inventory.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Inventory.h
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Inventory.h
+string
+-
+vector
+-
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/NPC.cpp
+NPC.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/NPC.h
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/NPC.h
+Inventory.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Inventory.h
 iostream
 -
+string
+-
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Orc.cpp
 Orc.h
-C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/Orc.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Orc.h
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Orc.h
+NPC.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/NPC.h
+string
+-
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/main.cpp
+iostream
+-
+limits
+-
+Orc.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Orc.h
+Elf.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/Elf.h
 

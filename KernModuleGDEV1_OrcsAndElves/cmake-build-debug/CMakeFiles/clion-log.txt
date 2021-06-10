@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1\KernModuleGDEV1_OrcsAndElves
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1-\KernModuleGDEV1_OrcsAndElves
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/tomre/Documents/KernModuleGDEV1/KernModuleGDEV1_OrcsAndElves/cmake-build-debug
+-- Build files have been written to: C:/Users/tomre/Documents/KernModuleGDEV1-/KernModuleGDEV1_OrcsAndElves/cmake-build-debug
