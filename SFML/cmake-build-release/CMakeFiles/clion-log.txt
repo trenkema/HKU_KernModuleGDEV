@@ -1,6 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1\SFML
-C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake_modules
--- Found SFML 2.5.1 in /SFML/include
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release
