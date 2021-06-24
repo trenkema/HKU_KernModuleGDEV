@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-debug")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

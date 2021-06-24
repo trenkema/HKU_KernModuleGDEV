@@ -64,7 +64,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release
+CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SFML.dir/depend.make
@@ -78,7 +78,7 @@ include CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/main.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/main.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML.dir/main.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\main.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\main.cpp
 
 CMakeFiles/SFML.dir/main.cpp.i: cmake_force
@@ -92,7 +92,7 @@ CMakeFiles/SFML.dir/main.cpp.s: cmake_force
 CMakeFiles/SFML.dir/Vector2.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/Vector2.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/Vector2.cpp.obj: ../Vector2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML.dir/Vector2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML.dir/Vector2.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\Vector2.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\Vector2.cpp
 
 CMakeFiles/SFML.dir/Vector2.cpp.i: cmake_force
@@ -106,7 +106,7 @@ CMakeFiles/SFML.dir/Vector2.cpp.s: cmake_force
 CMakeFiles/SFML.dir/Universe.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/Universe.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/Universe.cpp.obj: ../Universe.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML.dir/Universe.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML.dir/Universe.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\Universe.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\Universe.cpp
 
 CMakeFiles/SFML.dir/Universe.cpp.i: cmake_force
@@ -120,7 +120,7 @@ CMakeFiles/SFML.dir/Universe.cpp.s: cmake_force
 CMakeFiles/SFML.dir/Player.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/Player.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/Player.cpp.obj: ../Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML.dir/Player.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML.dir/Player.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\Player.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\Player.cpp
 
 CMakeFiles/SFML.dir/Player.cpp.i: cmake_force
@@ -134,7 +134,7 @@ CMakeFiles/SFML.dir/Player.cpp.s: cmake_force
 CMakeFiles/SFML.dir/Obstacle.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/Obstacle.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/Obstacle.cpp.obj: ../Obstacle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML.dir/Obstacle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML.dir/Obstacle.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\Obstacle.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\Obstacle.cpp
 
 CMakeFiles/SFML.dir/Obstacle.cpp.i: cmake_force
@@ -148,7 +148,7 @@ CMakeFiles/SFML.dir/Obstacle.cpp.s: cmake_force
 CMakeFiles/SFML.dir/DeltaTime.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/DeltaTime.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/DeltaTime.cpp.obj: ../DeltaTime.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFML.dir/DeltaTime.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFML.dir/DeltaTime.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\DeltaTime.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\DeltaTime.cpp
 
 CMakeFiles/SFML.dir/DeltaTime.cpp.i: cmake_force
@@ -162,7 +162,7 @@ CMakeFiles/SFML.dir/DeltaTime.cpp.s: cmake_force
 CMakeFiles/SFML.dir/SoundManager.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/SoundManager.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/SoundManager.cpp.obj: ../SoundManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFML.dir/SoundManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFML.dir/SoundManager.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\SoundManager.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\SoundManager.cpp
 
 CMakeFiles/SFML.dir/SoundManager.cpp.i: cmake_force
@@ -176,7 +176,7 @@ CMakeFiles/SFML.dir/SoundManager.cpp.s: cmake_force
 CMakeFiles/SFML.dir/Shop.cpp.obj: CMakeFiles/SFML.dir/flags.make
 CMakeFiles/SFML.dir/Shop.cpp.obj: CMakeFiles/SFML.dir/includes_CXX.rsp
 CMakeFiles/SFML.dir/Shop.cpp.obj: ../Shop.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFML.dir/Shop.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFML.dir/Shop.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SFML.dir\Shop.cpp.obj -c C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\Shop.cpp
 
 CMakeFiles/SFML.dir/Shop.cpp.i: cmake_force
@@ -210,15 +210,15 @@ SFML.exe: CMakeFiles/SFML.dir/DeltaTime.cpp.obj
 SFML.exe: CMakeFiles/SFML.dir/SoundManager.cpp.obj
 SFML.exe: CMakeFiles/SFML.dir/Shop.cpp.obj
 SFML.exe: CMakeFiles/SFML.dir/build.make
-SFML.exe: /SFML/lib/libsfml-system.a
-SFML.exe: /SFML/lib/libsfml-window.a
-SFML.exe: /SFML/lib/libsfml-graphics.a
-SFML.exe: /SFML/lib/libsfml-network.a
-SFML.exe: /SFML/lib/libsfml-audio.a
+SFML.exe: /SFML/lib/libsfml-system-d.a
+SFML.exe: /SFML/lib/libsfml-window-d.a
+SFML.exe: /SFML/lib/libsfml-graphics-d.a
+SFML.exe: /SFML/lib/libsfml-network-d.a
+SFML.exe: /SFML/lib/libsfml-audio-d.a
 SFML.exe: CMakeFiles/SFML.dir/linklibs.rsp
 SFML.exe: CMakeFiles/SFML.dir/objects1.rsp
 SFML.exe: CMakeFiles/SFML.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SFML.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SFML.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SFML.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -231,6 +231,6 @@ CMakeFiles/SFML.dir/clean:
 .PHONY : CMakeFiles/SFML.dir/clean
 
 CMakeFiles/SFML.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1-\SFML C:\Users\tomre\Documents\KernModuleGDEV1-\SFML C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles\SFML.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\tomre\Documents\KernModuleGDEV1-\SFML C:\Users\tomre\Documents\KernModuleGDEV1-\SFML C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles\SFML.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/SFML.dir/depend
 

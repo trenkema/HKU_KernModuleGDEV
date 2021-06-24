@@ -65,7 +65,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release
+CMAKE_BINARY_DIR = C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/SFML.dir/clean
 CMakeFiles/SFML.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SFML.dir\build.make CMakeFiles/SFML.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SFML.dir\build.make CMakeFiles/SFML.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target SFML"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target SFML"
 .PHONY : CMakeFiles/SFML.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SFML.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles 9
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SFML.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-release\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\tomre\Documents\KernModuleGDEV1-\SFML\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/SFML.dir/rule
 
 # Convenience name for target.

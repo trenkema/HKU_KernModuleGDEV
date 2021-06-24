@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/DeltaTime.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/DeltaTime.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/Obstacle.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/Obstacle.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/Player.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/Player.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/Shop.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/Shop.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/SoundManager.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/SoundManager.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/Universe.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/Universe.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/Vector2.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/Vector2.cpp.obj"
-  "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/main.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1/SFML/cmake-build-release/CMakeFiles/SFML.dir/main.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/DeltaTime.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/DeltaTime.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Obstacle.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/Obstacle.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Player.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/Player.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Shop.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/Shop.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/SoundManager.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/SoundManager.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Universe.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/Universe.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/Vector2.cpp.obj"
+  "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/main.cpp" "C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/cmake-build-release/CMakeFiles/SFML.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

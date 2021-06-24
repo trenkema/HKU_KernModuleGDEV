@@ -11,6 +11,9 @@ class Player {
 public:
     Player(int _boundX)
     {
+        this->speedX = 0;
+        this->sizeX = 0;
+        this->sizeY = 0;
         this->velocity = 0;
         this->boundX = _boundX;
     }
@@ -34,9 +37,9 @@ public:
         }
     }
 
-    void SetSpeed(float speedX)
+    void SetSpeed(float _speedX)
     {
-        this->speedX = speedX;
+        this->speedX = _speedX;
     }
 
     void SetSize(float _sizeX, float _sizeY)

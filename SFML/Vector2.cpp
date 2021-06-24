@@ -14,7 +14,7 @@ Vector2::Vector2(float _x, float _y)
     this->y = _y;
 }
 
-Vector2::~Vector2() = default;
+Vector2::~Vector2() {};
 
 void Vector2::SetX(const float _x) {
     this->x = _x;

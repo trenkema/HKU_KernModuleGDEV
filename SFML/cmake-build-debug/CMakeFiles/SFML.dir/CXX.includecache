@@ -850,9 +850,17 @@ SFML/Config.hpp
 
 C:/SFML/include/SFML/Window/WindowStyle.hpp
 
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/DeltaTime.cpp
+DeltaTime.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/DeltaTime.h
+
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/DeltaTime.h
 SFML/Graphics.hpp
 -
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Obstacle.cpp
+Obstacle.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Obstacle.h
 
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Obstacle.h
 iostream
@@ -861,6 +869,10 @@ SFML/Graphics.hpp
 -
 Vector2.h
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.h
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Player.cpp
+Player.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Player.h
 
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Player.h
 iostream
@@ -871,6 +883,10 @@ Obstacle.h
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Obstacle.h
 Vector2.h
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.h
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Shop.cpp
+Shop.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Shop.h
 
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Shop.h
 iostream
@@ -886,9 +902,17 @@ algorithm
 iterator
 -
 
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/SoundManager.cpp
+SoundManager.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/SoundManager.h
+
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/SoundManager.h
 SFML/Audio.hpp
 -
+
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Universe.cpp
+Universe.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Universe.h
 
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Universe.h
 ctgmath
@@ -914,14 +938,16 @@ C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/SoundManager.h
 Shop.h
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Shop.h
 
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.cpp
+Vector2.h
+C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.h
+
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/Vector2.h
 cmath
 -
 
 C:/Users/tomre/Documents/KernModuleGDEV1-/SFML/main.cpp
 iostream
--
-SFML/Graphics.hpp
 -
 SFML/Audio.hpp
 -

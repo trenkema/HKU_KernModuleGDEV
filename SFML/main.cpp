@@ -1,4 +1,5 @@
 #include <iostream>
+#include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include "Universe.h"
 using namespace std;
@@ -11,7 +12,7 @@ int main() {
     music.setVolume(4);
     music.setLoop(true);
     if (!music.openFromFile("../Sounds/BGMusic.wav"))
-        return -1; // error
+        return -1;
     music.play();
 
     while (universe.Running())
